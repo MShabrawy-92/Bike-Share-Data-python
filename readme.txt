@@ -1,0 +1,12 @@
+ref:
+https://pandas.pydata.org/pandas-docs/stable/user_guide/options.html
+https://stackoverflow.com/questions/15891038/change-column-type-in-pandas#:~:text=The%20best%20way%20to%20convert%20one%20or%20more%20columns%20of,floating%20point%20numbers%20as%20appropriate.
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.dt.hour.html
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.dt.month.html
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.dt.day.html
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.dt.day_name.html
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.mode.html
+https://docs.python.org/3/library/datetime.html#strftime-strptime-behavior
+https://www.w3resource.com/python-exercises/python-basic-exercise-65.php
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.value_counts.html
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.sample.html
